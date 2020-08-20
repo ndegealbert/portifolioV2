@@ -248,6 +248,9 @@ figcaption{
     .left, .lines {
         display: block;
     }
+    .res{
+        margin: 0 auto;
+    }
 
     .lines {
         display: grid;
