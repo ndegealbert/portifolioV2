@@ -244,15 +244,7 @@ figcaption{
 */
 
 @media (min-width: 320px) and (max-width: 480px) {
-    .background {
-        height: 110vh;
-        margin-top: -60px;
-    }
-
-    .vick {
-        text-align: center;
-    }
-
+  
     .left, .lines {
         display: block;
     }
